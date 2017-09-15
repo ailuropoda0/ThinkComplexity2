@@ -1,4 +1,5 @@
 [Cascade-based attacks on complex networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.66.065102)
+
 _Motter, A.E., Lai, Y.C., 2002. Cascade-based attacks on complex networks. **Phys. Rev.
 E** 66, 065102._
 
