@@ -1,0 +1,5 @@
+Halting viruses in scale-free networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.65.055103)
+
+_Dezső, Z., & Barabási, A. L. (2002). Halting viruses in scale-free networks. **Physical Review E**, 65(5), 055103._
+
+Dezső and Barabási propose the way to eradicate epidemic in scale-free networks which have a zero epidemic threshold and simulate the effectiveness of it by SIS model. They find that curing the hubs with degree k > k<sub>0</sub> makes a nonzero epidemic threshold, so it makes possible to get rid of the virus. Even though we cannot identify all hubs in real world, they confirm the policices that attempt to target and cure hubs with imperfect accuracy also has a nonzero epidemic threshold. And they show that such biased policies is more efficient and less expensive than random immunization.
