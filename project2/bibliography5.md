@@ -1,0 +1,5 @@
+[Simulation for pedestrian dynamics by real-coded cellular automata (RCA)](http://www.sciencedirect.com/science/article/pii/S0378437107001835)
+
+Yamamoto, K., Kokubo, S., & Nishinari, K. (2007). Simulation for pedestrian dynamics by real-coded cellular automata (RCA). Physica A: Statistical Mechanics and its Applications, 379(2), 654-660.
+
+Yamamoto, Kokubo and Nishinari propose the new model for pedestrian dynamics, called Real-coded Cellular Automata(RCA). In their model, the position and the velocity of each pedestrian can be arbitrarily given, regardless of grid points, unlike the previous Cellular Automata models. They observe the bottleneck situation and examine the critical number of people for causing the bottleneck while simulatiing the evacuation in a large room by their model. They suggest RCA can be combined with various types of CA model.
