@@ -1,0 +1,5 @@
+[A game theory based exit selection model for evacuation](http://www.sciencedirect.com/science/article/pii/S037971120600021X)
+
+Lo, S. M., Huang, H. C., Wang, P., & Yuen, K. K. (2006). A game theory based exit selection model for evacuation. Fire Safety Journal, 41(5), 364-369.
+
+Lo, Huang, Wang and Yuen integrate non-cooperative game theory with evacuation model to study the behavioral reation of the evacuees. Their non-cooperative game theory model has been established to test how how the evacuation pattern will be affected by rational interaction between evacuees. In their model, evacuees perceive the actions of others and the environmental condition and decide their escape route. They fuind the mixed-strategry _Nash Equilibrium_ for the game which describes the congestion states of exits. They suggest to examine the effect of familiarity and 'grouping' effect on further studies.
